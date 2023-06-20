@@ -6,4 +6,4 @@ Since I graduated in 2017 I've been working as a software engineer with a focus 
 - 🔨 Currently working on: Fast AI course part 2
 - 💬 Let's chat: emacs, rust, emulators
 
-![Resume word cloud](wordcloud.svg "Wordcloud")
+<img src="wordcloud.svg" height="500" alt="skills word cloud"/>
