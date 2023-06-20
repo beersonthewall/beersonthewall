@@ -5,3 +5,5 @@ Since I graduated in 2017 I've been working as a software engineer with a focus 
 - 📖 Currently learning: Machine Learning, emulator development, emacs
 - 🔨 Currently working on: Fast AI course part 2
 - 💬 Let's chat: emacs, rust, emulators
+
+![Resume word cloud](wordcloud.svg "Wordcloud")
