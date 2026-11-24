@@ -2,12 +2,13 @@
 
 ## $work
 
-Site Reliability Engineer [@Calendly](https://github.com/calendly).
+Looking for work, Senior SRE. Go / Python programmer.
 
 ## $not_work
 
+Currently enrolled in Georgia Tech's OMSCS program.
+
 Always learning something new! Some topics I'm interested in:
 
-- OS Dev
-- Rust
-- Emulators
+- Machine Learning
+- Distributed Systems
